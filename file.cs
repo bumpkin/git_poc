@@ -1,4 +1,4 @@
-namespace Tester
+namespace Test
 {
 	internal class Program
 	{
